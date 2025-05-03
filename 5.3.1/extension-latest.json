@@ -1,0 +1,14 @@
+{
+  "version": "5.3.1",
+  "pub_date": "2025-04-22T15:51:46Z",
+  "content_length": {
+    "macos": "0",
+    "windows": "0",
+    "linux": "0"
+  },
+  "links": {
+    "macos": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-macos-5.3.1.zip",
+    "windows": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-windows-5.3.1.zip",
+    "linux": "https://files.grass.io/file/grass-extension-upgrades/extension-latest/grass-community-node-linux-5.3.1.zip"
+  }
+}
